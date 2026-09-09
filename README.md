@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehrdad!
-- 👀 I’m a **programmer**, **data scientist** and a **machine learning fanatic**!
-- 🌱 I am also ***actively looking for internship/job opportunities in software engineering and data science***!
+- 👀 I’m a **SWE**, **computer scientist** and a **AI enthusiast**!
+- 🌱 I am also ***actively looking for internship/job opportunities in software engineering and applied science for 2027***!
 - 📫 Please check out my [website](https://sites.google.com/view/mehrdad-fazli/) to learn more about my projects, experiences, and contact info.
 
 <!---
